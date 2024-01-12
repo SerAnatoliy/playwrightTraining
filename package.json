@@ -1,0 +1,14 @@
+{
+  "name": "playwrighttraining",
+  "version": "1.0.0",
+  "description": "Used for practicing automated scripts using playwright",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Anatolii Serdiukov <anatoliy.serduikov@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5"
+  }
+}
